@@ -1,5 +1,5 @@
 # 🚀 Sobre mim
-➡️ Acesse o meu portfólio online => https://euantonio.com/
+➡️ Acesse o meu portfólio online | https://euantonio.com/
 
 📌 Piracicaba, SP
 
@@ -10,10 +10,16 @@
 ➡️ JavaScript <br>
 ➡️ PHP <br>
 ➡️ MySQL <br>
-➡️ Bootstrap <br>
+➡️ Python <br>
+➡️ jQuery <br>
 
 # Formação acadêmica
 👉 Unopar | Análise e Desenvolvimento de Sistemas
+👉 2º semestre
+
+# Experiência Profissional
+👉 Duptec | Desenvolvedor de Software
+👉 Tecnologias | Python - PHP
 
 # Sotwares
 🖥️ Adobe Photoshop <br>
