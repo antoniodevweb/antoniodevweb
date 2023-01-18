@@ -14,11 +14,11 @@
 ➡️ jQuery <br>
 
 # Formação acadêmica
-👉 Unopar | Análise e Desenvolvimento de Sistemas
+👉 Unopar | Análise e Desenvolvimento de Sistemas <br>
 👉 2º semestre
 
 # Experiência Profissional
-👉 Duptec | Desenvolvedor de Software
+👉 Duptec | Desenvolvedor de Software <br>
 👉 Tecnologias | Python - PHP
 
 # Sotwares
