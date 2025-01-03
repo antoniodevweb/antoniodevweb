@@ -1,9 +1,9 @@
-# 🚀 Sobre mim
-➡️ Acesse o meu portfólio online | https://euantonio.com/
-
 📌 Piracicaba, SP
 
 # Linguagens & outros
+➡️ Laravel <br>
+➡️ Node.js <br>
+➡️ React.js <br>
 ➡️ HTML <br>
 ➡️ CSS <br>
 ➡️ SASS <br>
@@ -18,12 +18,8 @@
 👉 2º semestre
 
 # Experiência Profissional
-👉 Duptec | Desenvolvedor de Software <br>
-👉 Tecnologias | Python - PHP
+👉 Fidelity Pesquisas Cadastrais | Desenvolvedor Back-End <br>
+👉 Tecnologias | Python - Laravel
 
-# Sotwares
-🖥️ Adobe Photoshop <br>
-🖥️ Adobe Lightroom <br>
-🖥️ Adobe Premiere Pro <br>
-🖥️ Adobe XD <br>
-🖥️ Figma <br>
+👉 Astroo Tecnologia | Desenvolvedor Back-End Pleno<br>
+👉 Tecnologias | Python - Node.js - Laravel - jQuery
